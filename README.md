@@ -310,20 +310,6 @@ python evaluate.py
 
 ---
 
-# 📜 Citation
-
-If you use this work, please cite:
-
-```bibtex
-@misc{cerebralcinema2026,
-  title={Cerebral Cinema: Predicting Human Brain Activity from Multimodal Movie Stimuli},
-  author={Milind Bathla},
-  year={2026}
-}
-```
-
----
-
 # 🙏 Acknowledgements
 
 - Meta AI (VideoMAE)
